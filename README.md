@@ -1,2 +1,2 @@
-# demo-delta
+# demo-delta.
 This is a demo for Git and Github profile.
